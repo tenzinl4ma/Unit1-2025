@@ -9,6 +9,3 @@ quizzes are checked **every 8** quizzes
 print("hello world!")
 
 ```
-
-
-## Proof of work
