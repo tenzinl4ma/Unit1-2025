@@ -1,8 +1,11 @@
 # Program To Translate DNA Chain 
 ### Flowchart
-![Flowchart3](../../../../../../../../var/folders/vz/frkd5v5x24vf1fpv9h7qrtvc0000gp/T/TemporaryItems/NSIRD_screencaptureui_OG9Rsk/Screenshot%202024-08-28%20at%2023.19.41.png)
+
+![Flowchart](https://github.com/user-attachments/assets/369df598-6b35-4642-9395-5fcc95cdda36)
+
 ## Question from slide:
-![Question_Screenshot](../../../../../../../../var/folders/vz/frkd5v5x24vf1fpv9h7qrtvc0000gp/T/TemporaryItems/NSIRD_screencaptureui_GTQXlH/Screenshot%202024-08-28%20at%2023.10.54.png)
+<img width="1214" alt="Screenshot 2024-08-29 at 0 33 12" src="https://github.com/user-attachments/assets/9a209d9c-e7cb-459c-ae1f-22ff0b1350c2">
+
 ## Code
 ```.py
 mapping = {"A": "T", "T": "A", "G": "C", "C": "G", "ASD":"DSA"}
@@ -16,4 +19,5 @@ output = mapping.get(user, "Invalid input")
 print(f"and it's output is {output}")
 ```
 # Proof 
-![Quiz3proof](../../../../../../../../var/folders/vz/frkd5v5x24vf1fpv9h7qrtvc0000gp/T/TemporaryItems/NSIRD_screencaptureui_g4Id1N/Screenshot%202024-08-29%20at%200.20.19.png)
+
+![Screenshot 2024-08-29 at 0 31 46](https://github.com/user-attachments/assets/07ab2abc-a8c4-465a-83c1-68e31cfe0a19)
