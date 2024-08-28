@@ -15,3 +15,5 @@ output = mapping.get(user, "Invalid input")
 # Print the result
 print(f"and it's output is {output}")
 ```
+# Proof 
+![Quiz3proof](../../../../../../../../var/folders/vz/frkd5v5x24vf1fpv9h7qrtvc0000gp/T/TemporaryItems/NSIRD_screencaptureui_g4Id1N/Screenshot%202024-08-29%20at%200.20.19.png)
