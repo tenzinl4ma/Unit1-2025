@@ -1,6 +1,10 @@
 # This is program to that show the factors of the number and check if the number is perfect or not.
 ##### we import system(sys) for system exit and time from python libray for smooth environment
 
+# Flow-Chart
+
+![Flowchart](https://github.com/user-attachments/assets/bef7bb7a-c24c-4327-bdd2-6a8682b78406)
+
 
 # Code
 
