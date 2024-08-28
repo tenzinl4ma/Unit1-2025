@@ -14,8 +14,6 @@ numbers=[21,55,10,90,6]
 for num in numbers:
     factor=find_factor(num)
     print(f"The factors of the {num}: {', ' .join(map(str, factor))}")
-
-
 def is_perfect_num(number):
     factor= find_factor(number)
     return sum(factor)==6
