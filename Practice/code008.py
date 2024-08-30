@@ -3,7 +3,7 @@
 def todo_list():
     tasks = []
     while True:
-        action = input("Choose an action: [add/view/rve/quit]: ").strip().lower()
+        action = input("Choose an action: [add/view/remove/quit]: ").strip().lower()
         if action == 'add':
             task = input("Enter a task: ")
             tasks.append(task)
