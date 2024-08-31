@@ -4,6 +4,7 @@
 
 # Flowchart
 
+![Screenshot 2024-08-31 at 21 00 17](https://github.com/user-attachments/assets/1b4f6b01-e4a4-4964-8bbe-d08f60261666)
 
 
 # Code
