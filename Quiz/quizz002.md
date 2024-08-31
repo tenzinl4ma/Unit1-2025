@@ -61,4 +61,4 @@ else:
 
 # Proof
 
-![Screenshot 2024-08-31 at 20 40 30](https://github.com/user-attachments/assets/170b0d76-37bf-4a9a-891c-2d523dd75a98)
+<img align= "center" width=800 height=300 src="https://github.com/user-attachments/assets/170b0d76-37bf-4a9a-891c-2d523dd75a98" >
