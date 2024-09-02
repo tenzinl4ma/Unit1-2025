@@ -1,3 +1,7 @@
+
+# Chose out of three option, multipy table, factorial even or odd Program
+
+```.py
 print("   WELCOME TO KIDSMATH")
 #show multiplicaton table
 #show factors of a number
@@ -39,3 +43,4 @@ asker()
 que=input("Do you want to continue? Pres Y for Yes and ")
 for y in que:
     asker()
+```
