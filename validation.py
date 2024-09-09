@@ -27,11 +27,4 @@ class color:
         reset_all = '\033[0m'
 
 # Number validation functions
-class numbervalidation:
-    @staticmethod
-    def positivenum(number):
-        return number > 0
-
-    @staticmethod
-    def integernum(number):
-        return isinstance(number, int)
+adding soon >>>>>
