@@ -1,3 +1,5 @@
+### This is the validation library where you can import classes like color and its foreground,background and other style
+
 class color:
     reset = '\033[39m'
     class fg:
@@ -25,11 +27,11 @@ class color:
         reset_all = '\033[0m'
 
 # Number validation functions
-class NumberValidation:
+class numbervalidation:
     @staticmethod
-    def validate_positive_number(number):
+    def positivenum(number):
         return number > 0
 
     @staticmethod
-    def validate_integer(number):
+    def integernum(number):
         return isinstance(number, int)
