@@ -5,6 +5,7 @@
 
 ## Flowchart
 
+<img width="612" alt="Screenshot 2024-09-09 at 14 14 01" src="https://github.com/user-attachments/assets/fa503135-0af1-4040-8c66-68f2ca213190">
 
 
 ## question 
