@@ -1,7 +1,7 @@
 # This is the random password generator
 
 ### you can choose to include the special char or not
-### I have included time to create more realiastic and if user ask for length of 20 char password will be in red and have add password length strenth and limitation.
+### I have import time system to create more realiastic and it will ask user for length password. If the length of the password is 20 it will be in red  and it also have password length strenth and limitation.
 
 ## Flowchart
 
