@@ -1,5 +1,6 @@
 #program to count how many Small case and Capital case in the Input words
 
+```.py
 sentence = input("Enter a sentence: ")
 
 lower_count = 0
@@ -17,3 +18,4 @@ for letter in sentence:
         special_count += 1
 total = lower_count + upper_count + digit_count + special_count
 print(f"Total Characters: {total}. Lowercase letters: {lower_count}. Uppercase letters: {upper_count}. Digits: {digit_count}  special letters: {special_count}" )
+```

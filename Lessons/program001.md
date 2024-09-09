@@ -1,3 +1,6 @@
+# Check if weather the given number is prime or even
+
+```.py
 def is_prime(n):
     """Check if a number is prime."""
     if n <= 1:
@@ -25,3 +28,4 @@ print(f"Prime numbers up to {num}:")
 for x in range(2, num + 1):  # Start from 2, the smallest prime number
     if is_prime(x):
         print(x)
+```
