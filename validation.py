@@ -25,13 +25,9 @@ class color:
         dim       = '\033[2m'
         normal    = '\033[22m'
         reset_all = '\033[0m'
-
 # Number validation functions
-class numbervalidation:
-    @staticmethod
-    def positivenum(number):
-        return number > 0
-
-    @staticmethod
-    def integernum(number):
-        return isinstance(number, int)
+def numbervalidation(number):
+    if number<0:
+        print("warning! Number too small")
+    elif number>100:
+        print(" Warning!!!num too high")
