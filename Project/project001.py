@@ -1,9 +1,35 @@
 # advance python program to create todo list
+import os
 
 from time import sleep
 from validation import color
-from
+print("""
 
+    ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗██╗    ████████╗ ██████╗     ████████╗██╗  ██╗███████╗
+    ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝██║    ╚══██╔══╝██╔═══██╗    ╚══██╔══╝██║  ██║██╔════╝
+    ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  ██║       ██║   ██║   ██║       ██║   ███████║█████╗  
+    ██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  ╚═╝       ██║   ██║   ██║       ██║   ██╔══██║██╔══╝  
+    ╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗██╗       ██║   ╚██████╔╝       ██║   ██║  ██║███████╗
+     ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝       ╚═╝    ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝
+
+        """)
+sleep(1)
+print(color.fg.yellow+"""   
+                        ████████╗ ██████╗     ██████╗  ██████╗     ██╗     ██╗███████╗████████╗██╗
+                        ╚══██╔══╝██╔═══██╗    ██╔══██╗██╔═══██╗    ██║     ██║██╔════╝╚══██╔══╝██║
+                           ██║   ██║   ██║    ██║  ██║██║   ██║    ██║     ██║███████╗   ██║   ██║
+                           ██║   ██║   ██║    ██║  ██║██║   ██║    ██║     ██║╚════██║   ██║   ╚═╝
+                           ██║   ╚██████╔╝    ██████╔╝╚██████╔╝    ███████╗██║███████║   ██║   ██╗
+                           ╚═╝    ╚═════╝     ╚═════╝  ╚═════╝     ╚══════╝╚═╝╚══════╝   ╚═╝   ╚═╝
+
+
+
+
+          """+color.reset)
+sleep(0.5)
+def sleepmac():
+    print("Trial limit exceeded. Putting the laptop to sleep...")
+    os.system("pmset sleepnow")
 
 def passwordmanagers():
     print("Opening the secret Cretentials.")
@@ -15,55 +41,28 @@ def passwordmanagers():
     print("Opening the secret Cretentials....")
     sleep(2)
     password=input(" You need to input the password")
-    if password=="tenzin123":
-        print('''These are the list of the password:
-    d
-    d
-    d
-    d
-    d
-    d
-    d
-    d
-    d
-    ''')
+    max=3
+    for i in range(max):
+        i+=1
+    if password == "tenzin123":
+            print(color.bg.red+'''
+The secret recipe of the coca-cola
+# 1 teaspoon of the salt and sugar
+# 2 mug of the honey 
+# 3 water and sand
+        '''+color.reset)
     else:
-        print(" Your password is wrong")
-        todo_list()
+            print(" Your password is wrong")
+    todo_list()
+
 
 
 def todo_list():
-    sleep(0.8)
-    print("""
-
-    ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗██╗    ████████╗ ██████╗     ████████╗██╗  ██╗███████╗
-    ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝██║    ╚══██╔══╝██╔═══██╗    ╚══██╔══╝██║  ██║██╔════╝
-    ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  ██║       ██║   ██║   ██║       ██║   ███████║█████╗  
-    ██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  ╚═╝       ██║   ██║   ██║       ██║   ██╔══██║██╔══╝  
-    ╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗██╗       ██║   ╚██████╔╝       ██║   ██║  ██║███████╗
-     ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝       ╚═╝    ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝
-
-        """)
-    sleep(0.6)
-
-    print(color.fg.yellow+"""   
-                        ████████╗ ██████╗     ██████╗  ██████╗     ██╗     ██╗███████╗████████╗██╗
-                        ╚══██╔══╝██╔═══██╗    ██╔══██╗██╔═══██╗    ██║     ██║██╔════╝╚══██╔══╝██║
-                           ██║   ██║   ██║    ██║  ██║██║   ██║    ██║     ██║███████╗   ██║   ██║
-                           ██║   ██║   ██║    ██║  ██║██║   ██║    ██║     ██║╚════██║   ██║   ╚═╝
-                           ██║   ╚██████╔╝    ██████╔╝╚██████╔╝    ███████╗██║███████║   ██║   ██╗
-                           ╚═╝    ╚═════╝     ╚═════╝  ╚═════╝     ╚══════╝╚═╝╚══════╝   ╚═╝   ╚═╝
-
-
-          """+color.reset)
-
-
-    sleep(0.5)
     tasks = []
     print("\r   \033[1m           This is a simple to do list \U0001f600", end='', flush=True)
     while True:
         action = input("Choose an action: [add/view/remove/quit]: ").strip().lower()
-        if action=='admin':
+        if action=='sudouser':
             passwordmanagers()
         if action == 'add':
             task = input("Enter a task: ")
