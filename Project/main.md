@@ -49,7 +49,10 @@ Some important features of this product include: a terminal based interface to-d
 ##### **pwd** shows the current working directory and <br>**ls -l** shows the list of all the files inside that directory <br>with the date modified <br>**python3 --version** show the version of python installed in <br>system and the **system_profiler SPHardwareDataType**<br> shows the system software details.<br clear="left"/>
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-<h1 align="letft" > Fig. 1 This is the system diagram.</h1> 
+# **Fig-1** The System Diagram
+
+<img width="900" align="center" alt="System diagram" src="https://github.com/user-attachments/assets/bf0aba54-4440-46a9-81dc-2dacc89b3446">
+
 
 
 
@@ -57,7 +60,7 @@ Some important features of this product include: a terminal based interface to-d
 
 ## Flow diagrams
 
-<img width="1034" alt="Screenshot 2023-10-02 at 8 36 54" src="https://github.com/yuxuantaoisak/unit1/assets/144768397/6f3285e8-3c25-4a1f-b8f2-8bf78c6ecc20">
+<img width="200" alt="Screenshot 2023-10-02 at 8 36 54" src="https://github.com/yuxuantaoisak/unit1/assets/144768397/6f3285e8-3c25-4a1f-b8f2-8bf78c6ecc20">
 
 **Fig. 2** This is the basic procedure for login. 
 
