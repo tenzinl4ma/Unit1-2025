@@ -4,7 +4,7 @@
 
 ## Problem definition
 
-Tenzin Lama, the client, is a young social media influencer who take a lots of the photos and post in many social media platform like Tiktok, Instagram and Facebook. He start his passion since he was middle school student and till these days his passion has never faded. He wanted to be a great influencer and has wide friend zone where they share a lots of thing, but the problem is they also share the phone with eachother, even though he trust his friend 100%, he doesn't trust the situation upcoming. We never know what will happen coming days, so he want a product that manage all social media and important passwords that is  well hidden like in vault that doesn't look like a password managers and, no unathorised person could access it.
+Zamir, the client, is a young social media influencer who take a lots of the photos and post in many social media platform like Tiktok, Instagram and Facebook. He start his passion since he was middle school student and till these days his passion has never faded. He wanted to be a great influencer and has wide friend zone where they share a lots of thing, but the problem is they also share the phone with eachother, even though he trust his friend 100%, he doesn't trust the situation upcoming. We never know what will happen coming days, so he want a product that manage all social media and important passwords that is  well hidden like in vault that doesn't look like a password managers and, no unathorised person could access it.
 
 There is no such existing product that meets Tenzin's requirement, allowing him to store and manage his password well hidden. So, is in need of someone who is capable of developing such app that fulfill his requirments. A developer Tenzin Lama, agrees to develop a product that meets his requirements, allowing him to manage and store the password of his social media account that is well hidden behind other app.
 
@@ -14,13 +14,8 @@ Moreover he is open to any additional function or customization that developer w
 
 Design statement: I will create a **To-do list app** for a client who is **Zamir**. The **To-do list** will be an **simple terminal application that can only access and run through terminal** and will be developed by **PyCharm** code editor. It will take **two weeks** to finish and will be evaluated according to the criteria **A, B, and C**.
 
-### Introduction to the cryptocurrency:
-
-
-Monero (XMR) is a privacy-focused cryptocurrency that was created in 2014. It is designed to provide enhanced privacy and anonymity for its users compared to other cryptocurrencies like Bitcoin. Monero achieves this privacy through various cryptographic techniques, including Stealth Addresses, Ring Signature, and Ring CT. This ensures that the sender, the receiver and the amount of transaction are all hidden by default. 
-
-
-“What Is Monero (XMR)?” Getmonero.Org, The Monero Project, www.getmonero.org/get-started/what-is-monero/. Accessed 1 Oct. 2023. 
+###Introduction to the Encryption: 
+In this product developmet process the encryption is very important to know for both developer and client side. Encryption is the method of securing your data and information into some other form that is unable to read and understand by the intercepter until its decrypted with corrected code. People often have misconception of believing that encryption and password is same, but ther is huge difference between them is that password is plain text if someone know it they can use it to access but encryption is a encoded form that even one know it they won't be able to use it till they decrypt it.
 
 
 ## Design Statement(rationale):
@@ -39,19 +34,21 @@ Some important features of this product include: a terminal based interface to-d
 
 4.The To-do list accept secretcode and password from user and direct them to the password manager.
 
-5.The electronic ledger shows the real time conversion rates from the cryptocurrency to other major currencies in the world (yen, usd, eur). 
+5. The password saved in tsv.file is encrypted form and will be decrypt when its open through password manager.
 
-6.The electronic ledger has an address book to make it more convenient  send money and reduce errors when typing in address manually (edit and delete).
+6. In password manager you can retrive, add, remove the password which will also changes will take place in original file.
 
 
 # Criteria B: Design
 
-## System diagram
+## System Details
 
-![Screenshot 2023-10-02 at 19 43 48](https://github.com/yuxuantaoisak/unit1/assets/144768397/a352b3d4-a792-4975-afcc-e06cfa7b9c2c)
+<img align="right" width="445" alt="Screenshot 2024-09-23 at 23 17 33" src="https://github.com/user-attachments/assets/0b04e11a-1c14-4ad3-85f7-7639bd9ecf40">
+
+## Sytem Diagram
+
 
 **Fig. 1** This is the system diagram. 
-
 
 
 
