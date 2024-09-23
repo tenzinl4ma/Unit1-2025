@@ -6,7 +6,7 @@
 
 Zamir, the client, is a young social media influencer who take a lots of the photos and post in many social media platform like Tiktok, Instagram and Facebook. He start his passion since he was middle school student and till these days his passion has never faded. He wanted to be a great influencer and has wide friend zone where they share a lots of thing, but the problem is they also share the phone with eachother, even though he trust his friend 100%, he doesn't trust the situation upcoming. We never know what will happen coming days, so he want a product that manage all social media and important passwords that is  well hidden like in vault that doesn't look like a password managers and, no unathorised person could access it.
 
-There is no such existing product that meets Tenzin's requirement, allowing him to store and manage his password well hidden. So, is in need of someone who is capable of developing such app that fulfill his requirments. A developer Tenzin Lama, agrees to develop a product that meets his requirements, allowing him to manage and store the password of his social media account that is well hidden behind other app.
+There is no such existing product that meets Zamir's requirement, allowing him to store and manage his password well hidden. So, is in need of someone who is capable of developing such app that fulfill his requirments. A developer Tenzin Lama, agrees to develop a product that meets his requirements, allowing him to manage and store the password of his social media account that is well hidden behind other app.
 
 Moreover he is open to any additional function or customization that developer will add.
 
