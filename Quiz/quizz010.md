@@ -1,6 +1,6 @@
-# This is the code to print the Calendar 
-# first create the list of the days and then dates
-# import self made color library and then python datetime libray
+# A program to print the Calendar 
+### first create the list of the days and then dates
+### import self made color library and then python datetime libray
 
 
 # Flowchart
