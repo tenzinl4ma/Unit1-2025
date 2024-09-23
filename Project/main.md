@@ -26,18 +26,18 @@ Monero (XMR) is a privacy-focused cryptocurrency that was created in 2014. It is
 ## Design Statement(rationale):
 The product will be developed on the popular python Integrated Development Environment called PyCharm software which is developed by Czech company Jetbrain which has wide range of essential tools that helps developers to cuztomize and add the desired functions. I also has lots of plug-in and shortcuts which enables developer's to developed efficiently providing developer friendly environment. This IDE best fit for the developer to achieve the goals that the client has set and shorten the time compare to other software.
 
-Some important features of this product include: a terminal based interface to-do list application that is capable of adding the multiple tasks, viewing the text and removing the tasks, it also shows the user friendly error message 'invalid input' if input is incorrect. It function as normal to-do list. It provide a warm and user friendly welcome message and also accept a **secret code** from user, if secret code is input, it will ask for password. If the user input the incorrect password for thrice the system will no longer take the keyboard and mouse input, completly locking the system till you swap the window. However the user input correct password it will show all the encrypted password in decrypt form. After, entering the password file you can add, delete the password list.
+Some important features of this product include: a terminal based interface to-do list application that is capable of adding the multiple tasks, viewing the text and removing the tasks, it also shows the user friendly error message 'invalid input' if input is incorrect. It function as normal to-do list. It provide a warm and user friendly welcome message and also accept a **secret code** from user, if secret code is input, it will ask for password. If the user input the incorrect password for thrice the system will no longer take the keyboard and mouse input, completly locking the system till you swap the window. However the user input correct password it will show all the encrypted password in decrypt form. After, entering the password file you can add, delete the password list. All these function and completed app frame provide and fulfill the clients demands.
 
 
 ## Success criteria
 
-1.The electronic ledger is a text-based software (Runs in the Terminal).
+1.The To-do list is a text-based software (Runs in the Terminal).
 
-2.The electronic ledger display the basic description of the cyrptocurrency selected.
+2.The To-do list is capable adding, viewing and removing the tasks.
 
-3.The electronic ledger allows to enter, withdraw and record transactions.
+3.The To-do list shows user friendly message when doing the operation .
 
-4.The electronic ledger shows the past transaction records (deposit, withdrawal, etc) in tables or graphs. 
+4.The To-do list accept secretcode and password from user and direct them to the password manager.
 
 5.The electronic ledger shows the real time conversion rates from the cryptocurrency to other major currencies in the world (yen, usd, eur). 
 
