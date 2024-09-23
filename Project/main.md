@@ -43,12 +43,13 @@ Some important features of this product include: a terminal based interface to-d
 
 ## System Details
 
-<img align="right" width="445" alt="Screenshot 2024-09-23 at 23 17 33" src="https://github.com/user-attachments/assets/0b04e11a-1c14-4ad3-85f7-7639bd9ecf40">
+<img align="left" width="445" alt="Screenshot 2024-09-23 at 23 17 33" src="https://github.com/user-attachments/assets/0b04e11a-1c14-4ad3-85f7-7639bd9ecf40">
 
-## Sytem Diagram
+## The system details
+##### **pwd** shows the current working directory and <br>**ls -l** shows the list of all the files inside that directory <br>with the date modified <br>**python3 --version** show the version of python installed in <br>system and the **system_profiler SPHardwareDataType**<br> shows the system software details.<br clear="left"/>
+----------------------------------------------------------------------------------------------------------------------------------------
 
-
-**Fig. 1** This is the system diagram. 
+<h1 align="letft" > Fig. 1 This is the system diagram.</h1> 
 
 
 
