@@ -4,15 +4,15 @@
 
 ## Problem definition
 
-Zamir, the client, is a young social media influencer who take a lots of the photos and post in many social media platform like Tiktok, Instagram and Facebook. He start his passion since he was middle school student and till these days his passion has never faded. He wanted to be a great influencer and has wide friend zone where they share a lots of thing, but the problem is they also share the phone with eachother, even though he trust his friend 100%, he doesn't trust the situation upcoming. We never know what will happen coming days, so he want a product that manage all social media and important passwords that is  well hidden like in vault that doesn't look like a password managers and, no unathorised person could access it.
+My client, is a young social media influencer who take a lots of the photos and post in many social media platform like Tiktok, Instagram and Facebook. He start his passion since he was middle school student and till these days his passion has never faded. He wanted to be a great influencer and has wide friend zone where they share a lots of thing, but the problem is they also share the phone with eachother, even though he trust his friend 100%, he doesn't trust the situation upcoming. We never know what will happen coming days, so he want a product that manage all social media and important passwords that is  well hidden like in vault that doesn't look like a password managers and, no unathorised person could access it.
 
-There is no such existing product that meets Zamir's requirement, allowing him to store and manage his password well hidden. So, is in need of someone who is capable of developing such app that fulfill his requirments. A developer Tenzin Lama, agrees to develop a product that meets his requirements, allowing him to manage and store the password of his social media account that is well hidden behind other app.
+There is no such existing product that meets my clients requirement, allowing him to store and manage his password well hidden. So, is in need of someone who is capable of developing such app that fulfill his requirments. A developer myself, agrees to develop a product that meets his requirements, allowing him to manage and store the password of his social media account that is well hidden behind other app.
 
 Moreover he is open to any additional function or customization that developer will add.
 
 ## Proposed solution
 
-Design statement: I will create a **To-do list app** for a client who is **Zamir**. The **To-do list** will be an **simple terminal application that can only access and run through terminal** and will be developed by **PyCharm** code editor. It will take **two weeks** to finish and will be evaluated according to the criteria **A, B, and C**.
+Design statement: I will create a **To-do list app** for my client it will be an **simple terminal application that can only access and run through terminal** and will be developed by **PyCharm** code editor. It will take **two weeks** to finish and will be evaluated according to the criteria **A, B, and C**.
 
 ### Introduction to the Encryption: 
 In this product developmet process the encryption is very important to know for both developer and client side. Encryption is the method of securing your data and information into some other form that is unable to read and understand by the intercepter until its decrypted with corrected code. People often have misconception of believing that encryption and password is same, but ther is huge difference between them is that password is plain text if someone know it they can use it to access but encryption is a encoded form that even one know it they won't be able to use it till they decrypt it.
