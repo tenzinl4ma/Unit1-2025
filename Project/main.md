@@ -72,10 +72,26 @@ Some important features of this product include: a terminal based interface to-d
 
 
 ## Record of tasks
-include  the record of the taks
+| Task Number | Planned Action                                            | Planned Outcome                                                              | Time estimated | target completion date | Criterion |
+|-------------|-----------------------------------------------------------|------------------------------------------------------------------------------|----------------|------------------------|-----------|
+| 1           | 1st meeting with client                                   | obtain a problem defination understand the situation                         | 10 min         | sep 7                  | A         |
+| 2           | Brain-storm and propose  solution                         | jot down the ideas and  solution                                             | 25 min         | sep 8                  | A         |
+| 3           | choose the system and IDE                                 | To choose the best fit hard- ware and software for deve- loping the products | 15 min         | sep 10                 | A         |
+| 4           | flowchart and diagram for To-do list and encrypted  files | To create the best solution                                                  | 30 min         | sept 12                | B         |
+| 5           | Alpha Development                                         | Code first draft of the program that meets client demands                    | 12 hrs         | sept 15                | C         |
+| 6           | Beta Testing                                              | Trace and find the bugs, errors, by testing with users                       | 2 hrs          | sept 18                | A         |
+| 7           | Beta Development                                          | Fix the bugs, errors and  add more functionalities.                          | 9 hrs          | sept 20                | C         |
 
 ## Test Plan
-
+| Task Number | Planned Action                                            | Planned Outcome                                                              | Time estimated | target completion date | Criterion |
+|-------------|-----------------------------------------------------------|------------------------------------------------------------------------------|----------------|------------------------|-----------|
+| 1           | 1st meeting with client                                   | obtain a problem defination understand the situation                         | 10 min         | sep 7                  | A         |
+| 2           | Brain-storm and propose  solution                         | jot down the ideas and  solution                                             | 25 min         | sep 8                  | A         |
+| 3           | choose the system and IDE                                 | To choose the best fit hard- ware and software for deve- loping the products | 15 min         | sep 10                 | A         |
+| 4           | flowchart and diagram for To-do list and encrypted  files | To create the best solution                                                  | 30 min         | sept 12                | B         |
+| 5           | Alpha Development                                         | Code first draft of the program that meets client demands                    | 12 hrs         | sept 15                | C         |
+| 6           | Beta Testing                                              | Trace and find the bugs, errors, by testing with users                       | 2 hrs          | sept 18                | A         |
+| 7           | Beta Development                                          | Fix the bugs, errors and  add more functionalities.                          | 9 hrs          | sept 20                | C         |
 
 # Criteria C: Development
 
