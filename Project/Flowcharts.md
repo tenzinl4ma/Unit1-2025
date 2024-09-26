@@ -1,3 +1,10 @@
 # Flowing are the flowcharts of the program
 
-# 1**st flowchart
+### Flowchart.001
+
+<img width="475" alt="Screenshot 2024-09-27 at 0 16 04" src="https://github.com/user-attachments/assets/9fc3d77d-f2a1-4676-bec4-325608bbdb0d">
+
+
+### Flowchart.002
+
+<img width="631" alt="Screenshot 2024-09-27 at 0 33 27" src="https://github.com/user-attachments/assets/a5a0b2ce-94c3-4878-9347-b8ad8887e208">
