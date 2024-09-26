@@ -14,4 +14,4 @@
 ##### Password generator
 
 
-![Uploading Screenshot 2024-09-27 at 1.01.14.png…]()
+<img width="446" alt="Screenshot 2024-09-27 at 1 02 01" src="https://github.com/user-attachments/assets/e2540075-5116-4b08-9a8a-632a91e4566c">
