@@ -26,17 +26,20 @@ Some important features of this product include: a terminal based interface to-d
 
 ## Success criteria
 
-1.The To-do list is a text-based software (Runs in the Terminal).
+1. The To-do list is a text-based software (Runs in the Terminal).
 
-2.The To-do list is capable adding, viewing and removing the tasks.
+2. The To-do list is capable of adding, viewing and removing the tasks smoothly.
 
-3.The To-do list shows user friendly message when doing the operation .
+3. The To-do list shows user friendly message when doing the operation .
 
-4.The To-do list accept secretcode and password from user and direct them to the password manager.
+4. The To-do list accept secretcode and password from user and direct them to the password manager.
 
-5. The password saved in tsv.file is encrypted form and will be decrypt when its open through password manager.
+5. It shows error message or play sound when you input password.
+
+7. The password saved in tsv.file is encrypted form and will be decrypt when its open through password manager.
 
 6. In password manager you can retrive, add, remove the password which will also changes will take place in original file.
+
 
 
 # Criteria B: Design
