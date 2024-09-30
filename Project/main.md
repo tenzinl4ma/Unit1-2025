@@ -86,14 +86,14 @@ Some important features of this product include: a terminal based interface to-d
 | 7           | Beta Development                                          | Fix the bugs, errors and  add more functionalities.                          | 9 hrs          | sept 20                | C         |
 
 ## Test Plan
-| Test  No | Test Type        | User Input       | Expected  Output                       | Testing Status Pass/Fail | Related  success Criteria                             |
-|----------|------------------|------------------|----------------------------------------|--------------------------|-------------------------------------------------------|
-| 1        | welcome  message | NONE             | Welcome to Todo-list                   | Pass                     | shows  messages                                       |
-| 2        | ask for input    | add/view/remove  | type add/view /remove                  | Pass                     | able to add, view or remove the list                  |
-| 3        | secret code      | sudouser         | opening  credential                    | Pass                     | open the tsv file                                     |
-| 4        | wrong password   | invalid input    | lock hardware input and show gif image | Pass                     | after 3 attempts of of the password shows gif         |
-| 5        | encrypt file     | cd important.tsv | password list in tsv file              | Pass                     | encrypt the file in  reverse                          |
-| 6        | decrypt file     | cd program001.py | shows the file in  decrypt             | Pass                     | the tsv file is reverse again to decrypt the  message |
+| Test  No | Test Type            | User Input                                                                           | Expected  Output                                | Testing Status Pass/Fail | Related  success Criteria            |
+|----------|----------------------|--------------------------------------------------------------------------------------|-------------------------------------------------|--------------------------|--------------------------------------|
+| 1        | welcome  message     | NONE                                                                                 | Welcome to Todo-list                            | Pass                     | shows  messages                      |
+| 2        | ask for input        | add/view/remove                                                                      | type add/view /remove type 'e'to finish  adding | Pass                     | able to add, view or remove the list |
+| 3        | secret code          | type current time  when you were open- ning the program to access password  manager. | show password input                             | Pass                     | You need to input the  password.     |
+| 4        | input password       | type 'tenzin123' as password                                                         | while typing password is hidden                 | Pass                     | open the tsv file in  readable mode. |
+| 5        | add/remove/quit/view | type a,r,q,v.                                                                        | show list of password  in coloroma              | Pass                     | show the password                    |
+| 6        | view                 | type v and its  list number to reveal the password. first v and then its number      | shows the password in  fully                    | Pass                     | reveal the password                  |
 # Criteria C: Development
 
 python starter 
