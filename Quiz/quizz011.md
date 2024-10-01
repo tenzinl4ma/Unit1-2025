@@ -2,6 +2,8 @@
 ### first create the list of the days and then dates
 ### import self made color library and then python datetime libray
 
+# Question
+<img width="1149" alt="Screenshot 2024-10-01 at 9 05 54" src="https://github.com/user-attachments/assets/0e5f4268-f82e-4f2f-8327-b0035e8d27c1">
 
 # Flowchart
 <img width="263" alt="Screenshot 2024-09-18 at 17 59 16" src="https://github.com/user-attachments/assets/498a84ef-9c3a-42f2-a14d-12788c5e25e2">
