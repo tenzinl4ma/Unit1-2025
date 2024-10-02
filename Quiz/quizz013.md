@@ -1,9 +1,14 @@
-# FLowchart ![Screenshot 2024-10-02 at 22 25 16](https://github.com/user-attachments/assets/4dbb4fe2-777b-4afb-8a24-56410f8a6a97)
+# This program give the output with given two input 
 
 
 
 # Question 
 ![Screenshot 2024-10-02 at 22 20 16](https://github.com/user-attachments/assets/98bd1576-eecb-452e-8c19-84e8f3c1344f)
+
+
+# FLowchart
+
+![Screenshot 2024-10-02 at 22 25 16](https://github.com/user-attachments/assets/4dbb4fe2-777b-4afb-8a24-56410f8a6a97)
 
 
 # Code
