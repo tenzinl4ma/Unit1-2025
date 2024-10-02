@@ -6,6 +6,9 @@ print(out)
 
 
 # Flowchart
+<img width="220" alt="Screenshot 2024-10-02 at 21 15 05" src="https://github.com/user-attachments/assets/43c4b926-eccd-4070-8081-676daee0e24f">
+
+
 
 # Code
 ```.py
