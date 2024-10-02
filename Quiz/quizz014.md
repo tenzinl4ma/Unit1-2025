@@ -3,6 +3,7 @@
 # Question/Prompt
 <img width="1195" alt="Screenshot 2024-10-01 at 9 12 50" src="https://github.com/user-attachments/assets/0bb4d89f-769b-4b9b-85d4-c2ef2b1bed8a">
 # Flowchart
+![Screenshot 2024-10-03 at 0 37 12](https://github.com/user-attachments/assets/f065621c-2da7-476e-8676-fdc3572f9ad9)
 
 
 # Code 
