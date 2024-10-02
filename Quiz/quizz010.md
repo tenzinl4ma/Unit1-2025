@@ -2,15 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 # Code 
 ```.py
 
@@ -35,5 +26,7 @@ powersTen(1)
 ```
 
 
+# Evidence
 
+<img width="423" alt="Screenshot 2024-10-02 at 13 35 36" src="https://github.com/user-attachments/assets/328d5e35-d1d7-4f26-8ec0-4fd17dbdbaf2">
 
